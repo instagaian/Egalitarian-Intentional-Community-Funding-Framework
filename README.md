@@ -1,0 +1,1 @@
+# Egalitarian-Intentional-Community-Funding-Framework
