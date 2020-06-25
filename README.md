@@ -7,7 +7,7 @@ Egalitarian, meaning that is is as fair as possible and is designed to prevent d
 Intentional, meaning that community does not exist just to survive, but has a purpose and ethos to assist the world in progressing into increasing dimensions of sustainability and technological advancements that lead to us becoming an interstellar life propagating symbiotic species.
 
 ## Community
-Community meaning a co-creative group of people with strong social bonds and a shared vision. A physical presence at a shared location is necessary to meet requirements for social ties and qualification for any shared income.
+Community meaning a co-creative group of people with strong social bonds and a shared vision. A physical presence at a shared location (base/hub) is necessary to meet requirements for social ties and qualification for any shared income.
 
 ## notice
 The framework has not to my knowledge been tested and is subject to change, variations that adhere to the main ethos and tenants are welcome
