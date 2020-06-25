@@ -9,6 +9,9 @@ Intentional, meaning that community does not exist just to survive, but has a pu
 ## Community
 Community meaning a co-creative group of people with strong social bonds and a shared vision. A physical presence at a shared location is necessary to meet requirements for social ties and qualification for any shared income.
 
+## notice
+The framework has not to my knowledge been tested and is subject to change, variations that adhere to the main ethos and tenants are welcome
+
 see full [document](https://github.com/instagaian/Egalitarian-Intentional-Community-Funding-Framework/blob/master/egalitarian%20comunity%20funding%20framework_v1.1.pdf) 
 
 ## Licence
