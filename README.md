@@ -11,7 +11,7 @@ Community meaning a co-creative group of people with strong social bonds and a s
 
 ## Syntropy-Entropy
 
-
+![image](https://drive.google.com/uc?export=view&id=1-Sh9MxW7usOpTK9dPkKFtsJwKPG5KTkv)
 
 ## notice
 The framework has not to my knowledge been tested and is subject to change, variations that adhere to the main ethos and tenants are welcome
